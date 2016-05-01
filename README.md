@@ -1,2 +1,2 @@
 # datasciencecoursera
-Data Repo for Stem Project 1
+Data Repo: Data Science Tool Box - Project 1
