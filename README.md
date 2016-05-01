@@ -1,3 +1,3 @@
 datasciencecoursera
 
-Data Scientist - Project 1
+Data Scientist Tool Box - Project 1
